@@ -1,0 +1,3 @@
+module pro.qmake.selector
+ContentSelector 1.0 ContentSelector.qml
+ContentCondition 1.0 ContentCondition.qml

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>horizontal.qml</file>
+        <file>vertical.qml</file>
+        <file>landscape-large.qml</file>
+        <file>portrait-large.qml</file>
+    </qresource>
+</RCC>
