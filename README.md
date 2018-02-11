@@ -1,5 +1,5 @@
 # qml-content-selector
-Item whose content changes based on its dimentions
+Item whose content changes based on its dimensions
 
 ## Configuration
 * clone this repository.
